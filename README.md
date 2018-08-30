@@ -1,2 +1,2 @@
-# github.io
-Skynode Labs' Thoughts on Non-Centralized Economic Protocols &amp; Assets
+# Skynode Labs
+General Thoughts and Musings on Non-Centralized Economic Protocols and Assets
